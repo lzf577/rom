@@ -6,7 +6,7 @@
 cd /tmp
 ~~~
 
-强刷
+下载
 
 ~~~bash
 wget https://github.com/lzf577/rom/raw/main/x.bin
