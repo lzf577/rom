@@ -9,7 +9,7 @@ cd /tmp
 下载
 
 ~~~bash
-wget https://github.com/lzf577/rom/raw/main/x.bin
+wget http://github.com/lzf577/rom/raw/main/x.bin
 ~~~
 
 
