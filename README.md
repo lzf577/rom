@@ -1,18 +1,5 @@
 # rom
 
-1.空的什么都没有
-
-2.v2ray ssr frp wol 网络共享
-
-3.和2一样，但更大
-
-固件用于xiaomi mini 
-
-进tmp目录
-
-~~~bash
-cd /tmp
-~~~
 
 下载
 
