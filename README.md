@@ -4,13 +4,13 @@
 下载
 
 ~~~bash
-wget http://github.com/lzf577/rom/raw/main/x.bin /tmp
+wget https://github.com/lzf577/rom/raw/main/xxxxxxxxxxx.bin /tmp
 ~~~
 
 
 强刷
 ~~~bash
-mtd write /tmp/x.bin firmware
+mtd write /tmp/xxxxxxxxxxxx.bin firmware
 ~~~
 
 恢复出厂
